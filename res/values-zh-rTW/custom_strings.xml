@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">指紋感應器位於手機正面。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">指紋感應器位於手機左側。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">指紋感應器位於手機右側。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">指紋感應器位於裝置正面。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">指紋感應器位於裝置左側。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">指紋感應器位於裝置右側。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">指紋感應器位於平板正面。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">指紋感應器位於平板左側。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">指紋感應器位於平板右側。</string>
+  </resources>
