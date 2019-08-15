@@ -93,4 +93,8 @@
     <string name="net_monitor_category_title">網路流量監測器</string>
     <string name="network_traffic_state_title">在狀態列中顯示目前的網路級別</string>
     <string name="network_traffic_autohide_threshold_title">自動隱藏閾值 (KB/s)</string>
+
+    <!-- Hotspot VPN -->
+    <string name="tethering_allow_vpn_upstreams_title">允許客戶端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允許熱點客戶端使用此裝置的 VPN 連線進行上游連線</string>
 </resources>
