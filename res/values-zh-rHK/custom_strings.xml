@@ -9,4 +9,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">指紋感應器位於平板正面。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">指紋感應器位於平板左側。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">指紋感應器位於平板右側。</string>
+
+    <!-- Statusbar net monitor -->
+    <string name="net_monitor_category_title">網路流量監測器</string>
+    <string name="network_traffic_state_title">在狀態列中顯示目前的網路級別</string>
+    <string name="network_traffic_autohide_threshold_title">自動隱藏閾值 (KB/s)</string>
   </resources>

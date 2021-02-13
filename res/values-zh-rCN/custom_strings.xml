@@ -9,4 +9,9 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">您可以在平板正面找到指纹传感器。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">您可以在平板左侧找到指纹传感器。</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">您可以在平板右侧找到指纹传感器。</string>
+
+    <!-- Statusbar net monitor -->
+    <string name="net_monitor_category_title">网络流量监视器</string>
+    <string name="network_traffic_state_title">在状态栏中显示当前的网络流量级别</string>
+    <string name="network_traffic_autohide_threshold_title">自动隐藏阈值 (KB/s)</string>
   </resources>

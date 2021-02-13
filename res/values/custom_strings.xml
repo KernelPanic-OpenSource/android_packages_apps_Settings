@@ -89,4 +89,8 @@
     <string name="touchscreen_hovering_title">Touchscreen hovering</string>
     <string name="touchscreen_hovering_summary">Allows you to hover the screen like a mouse in web browsers, remote desktops, etc</string>
 
+    <!-- Statusbar net monitor -->
+    <string name="net_monitor_category_title">Network monitor</string>
+    <string name="network_traffic_state_title">Show net activity in expanded statusbar</string>
+    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
 </resources>
